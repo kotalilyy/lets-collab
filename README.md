@@ -4,7 +4,7 @@
 
 ## Live Link
 
-[live link](https://kotalilyy.github.io/lets-collab/)
+[live link](https://kotalilyy.github.io/neon-button/)
 
 ## Credits
 
