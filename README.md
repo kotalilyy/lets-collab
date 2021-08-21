@@ -1,9 +1,6 @@
 # neon-button
 
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
-
-[![letscollab](https://user-images.githubusercontent.com/77229281/130305247-26ccfac5-af1e-4213-bb47-2bbc66ec4f83.png)
-](https://j.gifs.com/r2mRQB.gif)
+[![neon](https://user-images.githubusercontent.com/77229281/130308977-20863d6f-7500-488a-84b0-a20ec0535f6a.png)](https://j.gifs.com/r2m8Yp.gif)
 
 ## Live Link
 
