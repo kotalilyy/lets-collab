@@ -18,4 +18,6 @@ Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Lets Collaborate 
 
-If you would like to collaborate with me email me at kotalilyy@gmail.com
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+Email me at kotalilyy@gmail.com if you would like to work with me
