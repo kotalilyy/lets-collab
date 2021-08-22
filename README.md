@@ -1,8 +1,9 @@
-# lets-collab-neon-button
+# neon-button
 
 Click the pic below to see a gif of the live app. 
 
-[![letscollab](https://user-images.githubusercontent.com/77229281/130303843-c06ef265-ebea-48a5-a475-ed5f73b194eb.png)](https://j.gifs.com/r2mRQB.gif)
+[![collab](https://user-images.githubusercontent.com/77229281/130363039-285195b4-3642-4f8e-8edd-ef88aaddeb62.png)
+](https://j.gifs.com/0800GV.gif)
 
 ## Live Link
 
@@ -20,4 +21,4 @@ Created with by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Lets Collaborate 
 
-If you would like to collaborate with me email me at kotalilyy@gmail.com
+If you would like to collaborate with me reach out to me at kotalilyy@gmail.com
