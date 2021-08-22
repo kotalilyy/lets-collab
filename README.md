@@ -7,7 +7,7 @@ Click the pic below to see a gif of the live app.
 
 ## Live Link
 
-[live link](https://kotalilyy.github.io/lets-collab/)
+[live link](https://kotalilyy.github.io/neon-button/)
 
 ## Credits
 
