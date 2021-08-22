@@ -19,7 +19,7 @@ Thanks @[kevin-powell](https://github.com/kevin-powell)
 
 Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
-## Lets Collaborate 
+## Let's Collaborate 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
