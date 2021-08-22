@@ -8,16 +8,12 @@
 
 ## Credits
 
-Follow this [tutorial](https://www.youtube.com/watch?v=6xNcXwC6ikQ) to create this neon button.
+Click [here](https://www.youtube.com/watch?v=6xNcXwC6ikQ) to create this neon button.
 
 Thanks @[kevin-powell](https://github.com/kevin-powell)
 
-## Contributions
-
-Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
-
-## Lets Collaborate 
+## Lets Collaborate
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-Email me at kotalilyy@gmail.com if you would like to work with me 👩‍💻
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
