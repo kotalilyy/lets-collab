@@ -11,7 +11,7 @@ Click the pic below to see a gif of the live app.
 
 ## Credits
 
-Follow this [tutorial](https://www.youtube.com/watch?v=6xNcXwC6ikQ) to create this neon button.
+Click [here](https://www.youtube.com/watch?v=6xNcXwC6ikQ) to create this neon button.
 
 Thanks @[kevin-powell](https://github.com/kevin-powell)
 
