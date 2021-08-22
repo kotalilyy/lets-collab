@@ -17,8 +17,10 @@ Thanks @[kevin-powell](https://github.com/kevin-powell)
 
 ## Contributions
 
-Created with by [Dakota Nelson](https://github.com/kotalilyy)
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Lets Collaborate 
 
-If you would like to collaborate with me reach out to me at kotalilyy@gmail.com
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+If you would like to collaborate, reach out to me at kotalilyy@gmail.com
